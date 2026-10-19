@@ -4,8 +4,6 @@
   "id": "peace-area",
   "name": "和平区域",
   "configKey": "peace_area",
-  "enabledByDefault": true,
-  "canDisable": true,
   "requires": ["area"],
   "permissions": [
     "config:read:peace_area",
