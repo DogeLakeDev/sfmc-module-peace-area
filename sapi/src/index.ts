@@ -176,7 +176,7 @@ ModuleRegistry.register({
   afterWorldLoad: true,
   lifecycle: {
     registerPermissions() {
-      // 无玩家命令面
+      // 无命令
     },
     registerEvents() {
       const cb = world.afterEvents.entitySpawn.subscribe((ev) => {

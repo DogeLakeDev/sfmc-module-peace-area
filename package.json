@@ -1,11 +1,11 @@
 {
   "name": "@sfmc-bds/module-peace-area",
-  "version": "0.2.1",
+  "version": "1.0.0",
   "packageManager": "pnpm@10.8.0",
   "type": "module",
-  "description": "SAPI module: 和平区域怪物拦截",
+  "description": "SAPI module: 和平区域防刷怪",
   "license": "ISC",
-  "repository": "git+https://github.com/Tanya7z/sfmc-module-peace-area.git",
+  "repository": "git+https://github.com/DogeLakeDev/sfmc-module-peace-area.git",
   "main": "sapi/src/index.ts",
   "exports": {
     ".": "./sapi/src/index.ts"
