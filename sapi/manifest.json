@@ -17,5 +17,5 @@
       { "name": "area.byPoint" }
     ]
   },
-  "notes": "挂接 area.registerFeature(peace)；entitySpawn + onTick 拦截怪物；铁傀儡/雪傀儡/友好/宠物豁免。"
+  "notes": "拦截敌对生物的生成"
 }
